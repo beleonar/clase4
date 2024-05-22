@@ -1,4 +1,5 @@
 //Este es el cuerpo principal de mi ap
 el main de mi aplicacion
 
-instrucciones agregadas directamente en el repositorio remoto
+Instrucciones agregadas directamente en el repositorio remoto
+y hago el commit
